@@ -1,0 +1,27 @@
+[
+  {
+    "time": "18h 42",
+    "status": "refunded",
+    "count": 5
+  },
+  {
+    "time": "18h 42",
+    "status": "reversed",
+    "count": 13
+  },
+  {
+    "time": "18h 42",
+    "status": "approved",
+    "count": 299
+  },
+  {
+    "time": "18h 42",
+    "status": "backend_reversed",
+    "count": 6
+  },
+  {
+    "time": "18h 42",
+    "status": "denied",
+    "count": 56
+  }
+]
